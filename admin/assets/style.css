@@ -1,0 +1,18 @@
+body {
+  background: url(data_9_background-bela-negara-11.png) no-repeat;
+  background-size: cover;
+  background-position-y: 75%;
+  min-height: 100vh;
+  padding-bottom: 90px; /* */
+}
+
+.navbar,
+.im-box {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+@media screen and (min-width: 1080px) {
+  .w-lg-50 {
+    width: auto !important;
+  }
+}
