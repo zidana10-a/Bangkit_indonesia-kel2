@@ -6,4 +6,4 @@ if (!$con) {
     die;
 }
 
-define("BASE_URL", "/bangkit_indonesia");
+define("BASE_URL", "/bangkit_indonesia-kel2");
